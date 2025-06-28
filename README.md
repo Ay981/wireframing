@@ -28,5 +28,19 @@ Functionality in wireframes indicates how interactive elements behave, such as f
 
 ---
 
-Wireframing is essential as it provides a clear, focused visual representation that bridges the gap between concept and design, minimizing misunderstandings and reducing costly revisions later in development.
+## Types of Wireframes
+
+Wireframes generally come in two main types: **Low-Fidelity** and **High-Fidelity**.
+
+### Low-Fidelity Wireframes  
+Low-fidelity wireframes are simple, often hand-drawn sketches or basic digital outlines. They focus on the structure and layout without detailed visuals or interactivity. These wireframes are typically used early in the design process to brainstorm ideas, gather feedback quickly, and make rapid iterations without investing much time.
+
+### High-Fidelity Wireframes  
+High-fidelity wireframes are more detailed and closer to the final design. They include precise spacing, typography, visual hierarchy, and sometimes basic interactivity or annotations. These wireframes are used later in the design process to refine the user experience, communicate design decisions clearly, and prepare for prototyping or development.
+
+---
+
+## Wireframe Type Explanation
+
+The wireframe represented here is primarily a **Low-Fidelity Wireframe**. It emphasizes the basic layout, navigation, content placement, and functionality without detailed design elements like colors or images. This approach allows the team to focus on the overall structure and flow before committing to visual design, ensuring that the foundational user experience is sound.
 
